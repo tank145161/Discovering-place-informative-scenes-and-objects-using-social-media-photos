@@ -14,7 +14,7 @@ Paper:
 
 ![alt text][example_pic]
 
-[example_pic]: https://github.com/tank145161/Discovering-place-informative-scenes-and-objects-using-social-media-photos/blob/master/object.jpg "City-informative Objects"
+[example_pic]: https://github.com/tank145161/RSOS/blob/master/object.jpg "City-informative Objects"
 
 Citation:
 
