@@ -2,8 +2,8 @@
 
 Just for sharing some figures...
 
-Paper:
-Fan Zhang Bolei Zhou Carlo Ratti Yu Liu Discovering place-informative scenes and objects using social media photos. 6. Royal Society Open Science http://doi.org/10.1098/rsos.181375
+Paper:  
+- Fan Zhang Bolei Zhou Carlo Ratti Yu Liu Discovering place-informative scenes and objects using social media photos. 6. Royal Society Open Science http://doi.org/10.1098/rsos.181375
 
 ### City-informative scenes:
 ![alt text][example_pic]
@@ -20,8 +20,7 @@ Citation:
 
 @article{zhang_fan_discovering_nodate,
 	title = {Discovering place-informative scenes and objects using social media photos},
-	volume = {6},
-	url = {https://royalsocietypublishing.org/doi/10.1098/rsos.181375},
+	volume = {6},	
 	doi = {10.1098/rsos.181375},
 	number = {3},
 	urldate = {2019-03-06},
