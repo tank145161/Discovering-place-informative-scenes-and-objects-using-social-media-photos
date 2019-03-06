@@ -10,11 +10,11 @@ Paper:
 
 [example_pic]: https://github.com/tank145161/RSOS/blob/master/scene.jpg "City-informative scenes"  
 
-### City-informative Objects:  
+### City-informative Cars:  
 
 ![alt text][example_pic]
 
-[example_pic]: https://github.com/tank145161/RSOS/blob/master/object.jpg "City-informative Objects"
+[example_pic]: https://github.com/tank145161/RSOS/blob/master/object.jpg "City-informative Cars"
 
 Citation:
 
