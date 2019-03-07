@@ -5,9 +5,8 @@ Just for sharing some figures...
 Paper:  
 - Fan Zhang, Bolei Zhou, Carlo Ratti, Yu Liu. Discovering place-informative scenes and objects using social media photos. 6. Royal Society Open Science http://doi.org/10.1098/rsos.181375
 
-![alt text][pdf]
+[Discovering place-informative scenes and objects using social media photos.pdf](https://github.com/tank145161/RSOS/blob/master/Discovering%20place-informative%20scenes%20and%20objects%20using%20social%20media%20photos.pdf)
 
-[pdf]: https://github.com/tank145161/RSOS/blob/master/Discovering%20place-informative%20scenes%20and%20objects%20using%20social%20media%20photos.pdf "Discovering place-informative scenes and objects using social media photos.pdf"
 
 ### City-informative scenes:
 ![alt text][example_pic]
