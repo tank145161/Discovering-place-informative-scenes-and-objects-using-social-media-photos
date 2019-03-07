@@ -1,7 +1,7 @@
 # Discovering-place-informative-scenes-and-objects-using-social-media-photos
 
 ### Paper:  
-- Fan Zhang, Bolei Zhou, Carlo Ratti, Yu Liu. Discovering place-informative scenes and objects using social media photos. 6. Royal Society Open Science http://doi.org/10.1098/rsos.181375
+- Fan Zhang, Bolei Zhou, Carlo Ratti, Yu Liu. Discovering place-informative scenes and objects using social media photos. Royal Society Open Science. 2019, 6(3). http://doi.org/10.1098/rsos.181375
 
 - [Discovering place-informative scenes and objects using social media photos.pdf](https://github.com/tank145161/RSOS/blob/master/Discovering%20place-informative%20scenes%20and%20objects%20using%20social%20media%20photos.pdf)
 
