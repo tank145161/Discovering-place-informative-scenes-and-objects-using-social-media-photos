@@ -7,15 +7,15 @@
 
 
 ### City-informative scenes:
-![alt text][example_pic]
+![alt text][example_pic1]
 
-[example_pic]: https://github.com/tank145161/RSOS/blob/master/scene.jpg "City-informative scenes"  
+[example_pic1]: https://github.com/tank145161/RSOS/blob/master/scene.jpg "City-informative scenes"  
 
 ### City-informative Cars:  
 
-![alt text][example_pic]
+![alt text][example_pic2]
 
-[example_pic]: https://github.com/tank145161/RSOS/blob/master/object.jpg "City-informative Cars"
+[example_pic2]: https://github.com/tank145161/RSOS/blob/master/object.jpg "City-informative Cars"
 
 Citation:
 	
